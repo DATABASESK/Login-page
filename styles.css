@@ -56,7 +56,7 @@ body {
   font-weight: 600;
   text-align: center;
   margin-bottom: 1.5rem;
-  color: #8A2BE2; /* Make header text stand out */
+  color: #f707d3; /* Make header text stand out */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add shadow for better visibility */
 }
 
@@ -74,7 +74,7 @@ body {
 
 .form input:focus {
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
-  border-color: #009579; /* Change border color on focus */
+  border-color: #e39aed; /* Change border color on focus */
 }
 
 .form input.button {
