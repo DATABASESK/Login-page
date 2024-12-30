@@ -86,7 +86,7 @@ loginBtn.addEventListener('click', () => {
       const user = userCredential.user;
       if (user.emailVerified) {
         console.log('User is signed in with a verified email.');
-        window.location.href = "https://skmovies.vercel.app/";
+        window.location.href = "https://skytmovies.vercel.app/";
       } else {
         alert('Please verify your email before signing in.');
       }
